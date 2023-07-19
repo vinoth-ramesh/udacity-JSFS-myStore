@@ -9,12 +9,11 @@ MyStore is a single-page application built in Angular, that offers a rich, dynam
 - Checkout products in cart.
 - Calculate cart total in cart.
 
-Start coding by: Nhu Y Ho 
+Steps to run the code in this repository: 
 
-- Clone this repo : https://github.com/nhuyho/udacity-my-store.git;
-- Remove git remote
-- Add new git remote to new service repo
-- Update project name at (package.json,...)
+- Clone this repo : https://github.com/vinoth-ramesh/udacity-JSFS-myStore;
+- cd udacity-JSFS-myStore
+
 
 ## Dependencies 
 
@@ -23,15 +22,20 @@ To install the dependencies for this project, run the following command:
 npm install
 ```
 
+## Build project
+On the same terminal, run the command
+   ```
+npm run build
+
+
 ## Start server
 On the same terminal, run the command
    ```
 npm run start
      
 
-#### Sample request:
-Navigate to 
-http://localhost:3500/
+## Access Application:
+Navigate to http://localhost:3500/
 
 The app will automatically reload if you change any of the source files.
 
