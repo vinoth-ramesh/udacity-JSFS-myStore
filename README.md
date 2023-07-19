@@ -23,16 +23,18 @@ npm install
 ```
 
 ## Build project
-On the same terminal, run the command
-   ```
-npm run build
 
+On the same terminal, run the command
+```
+npm run build
+ ```
 
 ## Start server
+
 On the same terminal, run the command
-   ```
+```
 npm run start
-     
+```    
 
 ## Access Application:
 Navigate to http://localhost:3500/
